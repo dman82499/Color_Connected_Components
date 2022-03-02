@@ -9,4 +9,3 @@ In the future, this may also be integrated with Open CV or Scikit-image's Connec
 
 
 
-# Usage
